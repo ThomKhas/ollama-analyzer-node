@@ -4,4 +4,5 @@ en la máquina local, tambien tener instalado el modelo "llama3" que es el que e
 Links:
 https://ollama.com/
 https://ollama.com/library/llama3
-![image](https://github.com/ThomKhas/ollama-analyzer-node/assets/95324804/d379ebc9-407c-4f6b-be9f-28d158b9a183)
+![image]
+(https://github.com/ThomKhas/ollama-analyzer-node/assets/95324804/d379ebc9-407c-4f6b-be9f-28d158b9a183)
