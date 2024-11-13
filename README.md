@@ -1,9 +1,9 @@
 Ejecutar "npm install" tanto en la carpeta frontend como backend, y tener instalado "Ollama"
 en la máquina local, tambien tener instalado el modelo "llama3" que es el que esta usando actualmente el código.
-(Esto lo puedes cambiar en el archivo server.ts en la dirección "backend/src")
-Links:
-https://ollama.com/
-https://ollama.com/library/llama3
+(Esto lo puedes cambiar en el archivo server.ts en la dirección "backend/src") 
+Links:  
+https://ollama.com/  
+https://ollama.com/library/llama3  
 
 
 
